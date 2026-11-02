@@ -31,7 +31,7 @@ const statToday = document.getElementById('stat-today');
 const overallProgressBar = document.getElementById('overall-progress-bar');
 const overallProgressText = document.getElementById('overall-progress-text');
 
-// Modal & Form Elements
+//Modal & Form Elements
 const modal = document.getElementById('task-modal');
 const btnAddTaskHeader = document.getElementById('btn-add-task-header');
 const btnCancelModal = document.getElementById('btn-cancel-modal');

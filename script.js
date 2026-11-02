@@ -1,7 +1,7 @@
 /* =========================================
    1. STATE MANAGEMENT (Data & Variables)
 ========================================= */
-// Load tasks from localStorage, or initialize an empty array if none exist
+//Load tasks from localStorage, or initialize an empty array if none exist
 let tasks = JSON.parse(localStorage.getItem('studyPlannerTasks')) || [];
 
 // Load total study time (in seconds) from localStorage

@@ -14,7 +14,7 @@ let isTimerRunning = false;
 
 
 /* =========================================
-   2. DOM ELEMENTS SELECTION
+   2.DOM ELEMENTS SELECTION
 ========================================= */
 //Navigation & Layout
 const navItems = document.querySelectorAll('.nav-item');

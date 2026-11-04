@@ -1,7 +1,7 @@
 /* =========================================
    CSS VARIABLES & GLOBAL STYLES
 ========================================= */
-:root {
+:root{
     /* Color Palette */
     --primary: #4318FF;          /* Vibrant purple/blue */
     --primary-hover: #3311db;

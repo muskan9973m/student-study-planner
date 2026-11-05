@@ -30,7 +30,7 @@
     box-sizing: border-box;
 }
 
-body {
+body  {
     font-family: var(--font-main);
     background-color: var(--bg-color);
     color: var(--text-main);

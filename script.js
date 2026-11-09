@@ -56,7 +56,7 @@ const totalTimeDisplay = document.getElementById('total-time-display');
 
 
 /* =========================================
-   3. INITIALIZATION
+   3.INITIALIZATION
 ========================================= */
 // Run when the HTML document is fully loaded
 document.addEventListener('DOMContentLoaded', () => {

@@ -18,7 +18,7 @@ let isTimerRunning = false;
 =========================================*/
 //Navigation & Layout
 const navItems = document.querySelectorAll ('.nav-item');
-const sections = document.querySelectorAll('.section');
+const sections = document.querySelectorAll ('.section');
 const sidebar = document.getElementById('sidebar');
 const openSidebarBtn = document.getElementById('open-sidebar');
 const closeSidebarBtn = document.getElementById('close-sidebar');

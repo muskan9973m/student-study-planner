@@ -5,7 +5,7 @@
 let tasks = JSON.parse(localStorage.getItem('studyPlannerTasks')) || [];
 
 // Load total study time (in seconds) from localStorage
-let totalStudyTime = parseInt(localStorage.getItem('studyPlannerTotalTime')) || 0;
+let totalStudyTime = parseInt(localStorage.getItem('studyPlannerTotalTime'))|| 0;
 
 // Timer state variables
 let timerInterval;

@@ -124,7 +124,7 @@ function openModal(isEdit = false, task = null) {
 }
 
 function closeTaskModal() {
-    modal.classList.remove('active'); // Hide modal
+    modal. classList.remove('active'); // Hide modal
 }
 
 // Event Listeners for Modal

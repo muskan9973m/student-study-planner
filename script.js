@@ -25,7 +25,7 @@ const closeSidebarBtn = document.getElementById('close-sidebar');
 
 // Dashboard Stats Elements
 const statTotal = document.getElementById('stat-total');
-const statCompleted = document.getElementById('stat-completed');
+const statCompleted =document.getElementById('stat-completed');
 const statPending = document.getElementById('stat-pending');
 const statToday = document.getElementById('stat-today');
 const overallProgressBar = document.getElementById('overall-progress-bar');
